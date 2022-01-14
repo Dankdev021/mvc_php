@@ -1,0 +1,8 @@
+{
+    "name": "daniel.sousa/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
